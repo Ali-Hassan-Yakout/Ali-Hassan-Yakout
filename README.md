@@ -1,31 +1,33 @@
 # 👋 Hi, I’m Ali Hassan Yakout  
 
 🎓 **Computer Science Graduate (MTI, Cairo)**  
-💻 **Flutter & Mobile Developer | IoT Enthusiast | Problem Solver**  
+💻 **Flutter & Mobile Developer | Firebase Specialist | IoT Enthusiast**  
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Computer Science graduate** who loves building apps that matter. My work spans from **mobile development** with Flutter & Firebase to **IoT systems** integrating hardware and software for real-world solutions.  
+I’m a passionate **Computer Science graduate** who loves building apps that matter.  
+I focus on **mobile development with Flutter & Firebase**, and I also work on **IoT solutions** that integrate hardware and software.  
 
-I enjoy challenges that push me to **think creatively and code efficiently**, whether that’s through **real-time messaging apps, educational tools, or smart devices**.  
+I enjoy challenges that push me to **think algorithmically and design efficiently**, whether that’s through **real-time chat apps, inclusive learning platforms, or smart devices**.  
 
 ---
 
 ## 🛠️ Tech Stack  
 - **Languages:** Dart, C++, JavaScript  
-- **Frameworks:** Flutter, Firebase, REST APIs  
+- **Frameworks & Tools:** Flutter, Git  
+- **Cloud & Backend Services:** Firebase (Auth, Firestore, Storage, Notifications), REST APIs  
 - **Core CS:** Data Structures & Algorithms, OOP, Numerical Analysis  
-- **Other:** PCB Design, IoT Integration, Mobile UI/UX  
+- **Other:** IoT Integration, PCB Design, Mobile UI/UX  
 
 ---
 
 ## 📂 Featured Projects  
-- 🔐 **[Lockify-App](https://github.com/Ali-Hassan-Yakout/Lockify-App):** Smart IoT lock system with fingerprint, RFID & Flutter app  
-- 🎓 **[SEN-App](https://github.com/Ali-Hassan-Yakout/SEN-App):** Inclusive learning app for children with special needs  
-- 🏝️ **[OrangeBay-App](https://github.com/Ali-Hassan-Yakout/OrangeBay-App):** Guest experience & ticketing solution for resorts  
-- 💬 **[Chatty-App](https://github.com/Ali-Hassan-Yakout/Chatty-App):** Real-time chat app with media sharing  
-- 🧮 **[Numpro-App](https://github.com/Ali-Hassan-Yakout/Numpro-App):** Numerical analysis calculator  
+- 🔐 [Lockify-App](https://github.com/Ali-Hassan-Yakout/Lockify-App) — IoT-based smart lock system  
+- 🎓 [SEN-App](https://github.com/Ali-Hassan-Yakout/SEN-App) — Learning app for children with special needs  
+- 🏝️ [OrangeBay-App](https://github.com/Ali-Hassan-Yakout/OrangeBay-App) — Resort ticketing & access system  
+- 💬 [Chatty-App](https://github.com/Ali-Hassan-Yakout/Chatty-App) — Real-time messaging app  
+- 🧮 [Numpro-App](https://github.com/Ali-Hassan-Yakout/Numpro-App) — Numerical analysis calculator  
 
 👉 Explore more: [My GitHub Projects](https://github.com/Ali-Hassan-Yakout)  
 
